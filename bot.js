@@ -110,7 +110,7 @@ const compliments = [
 ]
 
 client.on('message', async (msg) => {
-  if (msg.author.bot || !['760585029021204500'].includes(msg.channel.id)) {
+  if (msg.author.bot || !['857333432093769736'].includes(msg.channel.id)) {
     return;
   } else if (msg.content.startsWith('t') && msg.member.roles.cache.find(r => r.name === '🛡ADM')) {
       const ch = client.channels.cache.find(ch => ch.id === '760585029021204500')
