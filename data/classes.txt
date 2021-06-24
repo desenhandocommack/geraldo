@@ -1,25 +1,68 @@
 Masculine                    | Feminine
 -----------------------------|--------------------------------------------------
-Arqueiro                     | Arqueira
-Ferreiro                     | Ferreira
-Padeiro                      | Padeira
-Mensageiro                   | Mensageira
-Besteiro                     | Besteira
-Lanceiro                     | Lanceira
-Mago                         | Maga
-Arqui Mago                   | Arqui Maga
-Paladino                     | Paladina
-Mago das Chamas              | Maga das Chamas
-Psionico                     | Psionica
-Ilusionista                  | Ilusionista
-Mágico                       | Mágica
-Shinobi                      | Kunoichi
-Infiltrador                  | Infiltradora
-Bárbaro                      | Bárbara
-Ladino                       | Ladina
+Esquimó                   
+Vira-lata                    
+Espacial                   
+Anjo                    
+Fada                  
+Savana                       
+Arcanjo                
+Colegial                  
+Exército          
+Máquinas                   
+Robôs               
+Antropomórfico                      
+Folclore                     
+Tropical                
+Militar                     
+Zoológico           
+Cyrberpunk
+Marinho
+Lúdico
+Remoto
+Exótico
+Futurista
+Brilhante
+Mexicano
+Geleia
+Gelado
+Musical
+Elemental
+Glamour
+Criminal
+Fantasma
+Clichê
+Boneco
+Voador
+Natalino
+Apertado
+Monstros
+Bizarro
+Assustador
+Extraterrestre
+Totem
+Macabro
+Esqueleto
+Armado
+Espírito
+Estátua
+Gigante
+Pedra
+Água
+Grande
+Noturno
+Amputado
+Voodo
+Besouro
+Infantil
+Glacial
+Steampunk
+Futurista
+Pinup
+Zumbi
+Lobisomen
 Pirata
-Piromante
-Necromante
-Espadachim
 Samurai
-Ranger
+Rural
+Alienígena
+Tribal
