@@ -1,28 +1,113 @@
 Masculine                    | Feminine
 -----------------------------|--------------------------------------------------
-Pequeno                      | Pequena
-Médio                        | Média
-Quebrado                     | Quebrada
-Danificado                   | Danificada
-Destruído                    | Destruída
-Novo                         | Nova
-Velho                        | Velha
-Sujo                         | Suja
-Limpo                        | Limpa
-Colorido                     | Colorida
-Espinhoso                    | Espinhosa
-Pontudo                      | Pontuda
-Encantado                    | Encantada
-Mágico                       | Mágica
-Épico                        | Épica
-Gosmento                     | Gosmenta
-Empoeirado                   | Empoeirada
-Descascado                   | Descascada
-Voador                       | Voadora
-Luminoso                     | Luminosa
-Elétrico                     | Elétrica
-Assombroso                   | Assombrosa
-Queimado                     | Queimada
-Grande
-Flamejante
-Brilhante
+Elétrico
+Esforçado
+Amigável
+Determinado
+Maníaco
+Preguiçoso
+Desatento
+Charmoso
+Descolado
+Tímido
+Otimista
+Corajoso
+Honesto
+Disciplinado
+Criativo
+Focado
+Confiante
+Paciente
+Justo
+Responsável
+Autêntico
+Gentil
+Confiável
+Agradável
+Alegre
+Amistoso
+Acolhedor
+Aventureiro
+Ágil
+Atento
+Astuto
+Assombroso
+Sensual
+Brincalhão
+Carinhoso
+Cavalheiro
+Cativante
+Chique
+Elegante
+Culto
+Divertido
+Disposto
+Devoto
+Firme
+Gênio
+Heróico
+Imaginativo
+Jovial
+Líder
+Ousado
+Obstinado
+Organizado
+Ousado
+Poderoso
+Radiante
+Robusto
+Sonhador
+Sério
+Sábio
+Verboso
+Zen
+Medroso
+Distraído
+Instável
+Orgulhoso
+Nervoso
+Apático
+Ingênuo
+Mentiroso
+Não confiável
+Calmo
+Hipocondríaco
+Vaidoso
+Severo
+Bruto
+Violento
+Sujo
+Valente
+Covarde
+Dócil
+Estúpido
+Pessimista
+Saudável
+Doente
+Cruel
+Indeciso
+Misterioso
+Tranquilo
+Insensível
+Arrogante
+Modesto
+Hábil
+Franco
+Galante
+Rude
+Ativo
+Crente
+Vagabundo
+Prático
+Organizado
+Independente
+Arrogante
+Rápido
+Sorrateiro
+Aberto
+Amigável
+Heróico
+Destemido
+Velho
+Sinistro
+Antiquado
