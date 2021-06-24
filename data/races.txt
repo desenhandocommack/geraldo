@@ -1,27 +1,139 @@
 Masculine                    | Feminine
 -----------------------------|--------------------------------------------------
-Elfo                         | Elfa
-Humano                       | Humana
-Anão                         | Anã
-Reptiliano                   | Reptiliana
-Tritão                       | Sereia
-Draconato                    | Draconata
-Gnomo                        | Gnoma
-Dragão                       | Dragonesa
-Centauro                     | Centaura
-Minotauro                    | Minotaura
-Elfo Alado                   | Elfa Alada
-Elfo Negro                   | Elfa Negra
-Meio Elfo                    | Meio Elfa
-Orc                          | Orquisa
-Meio Orc                     | Meio Orquisa
-Vampiro                      | Vampira
-Animatronic                  | Animatronic
-Ogro                         | Ogra
-Furry                        | Furry
-Duende
-Replicante
-Hobbit
-Zumbi
-Robô
-Kobold
+Arqueólogo                   | Arqueóloga
+Lutador                      | Lutadora
+Boxeador                     | Boxeadora
+Resgatador                   | Resgatadora
+Artesão                      | Artesã
+Ferreiro                     | Ferreira
+Sapateiro                    | Sapateira
+Xamã                         | Xamã  
+Padre                        | Freira
+Professor                    | Professora
+Atleta                       | Atleta
+Astronauta                   | Astronauta 
+Forasteiro                   | Forasteira
+Pesquisador                  | Pesquisadora
+Estudante                    | Estudante
+Programador                  | Programadora
+Segurança                    | Segurança
+Mestre                       | Mestre
+Porteiro                     | Porteira
+Vendedor                     | Vendedora
+Maquiador                    | Maquiadora
+Cavalheiro                   | Madame
+Aviador                      | Aviadora
+Piloto                       | Piloto
+Auxiliar de limpeza          | Auxiliar de limpeza
+Educador físico              | Educador físico
+Somelier                     | Sommelière
+Cozinheiro                   | Cozinheira
+Patrão                       | Patroa
+Marketeiro                   | Marketeira
+Florista                     | Florista
+Turista                      | Turista
+Animador de festas           | Animador de festas
+Dançarino                    | Dançarina
+Gamer                        | Gamer
+Fotógrafo                    | Fotógrafa
+Luthier                      | Luthière
+Geólogo                      | Geóloga
+Zoólogo                      | Zoóloga
+Escritor                     | Escritora
+Jornalista                   | Jornalista
+Engenheiro                   | Engenheira
+Minerador                    | Mineradora
+Médico                       | Médica
+Psicólogo                    | Psicóloga
+Psiquiatra                   | Psiquiatra
+Açougueiro                   | Açougueira
+Caixa                        | Caixa
+Banqueiro                    | Banqueira
+Ambulante                    | Ambulante
+Gerente                      | Gerente 
+Detetive                     | Detetive
+Roqueiro                     | Roqueira
+Nômade                       | Nômade
+Combatente                   | Combatente
+Sucateiro                    | Sucateira
+Fazendeiro                   | Fazendeira
+Auxiliar                     | Auxiliar
+Secretário                   | Secretária
+Passeador de cães            | Passeador de cães
+Adestrador                   | Adestradora
+Ventríloquo                  | Ventríloqua
+Diretor                      | Diretora
+Guarda                       | Guarda
+Diretor                      | Diretora
+Cowboy                       | Cowgirl
+Costureiro                   | Costureira
+Tenista                      | Tenista
+Açougueiro                   | Açougueira
+Pipoqueiro                    
+Caçador                      | Caçadora
+Mendigo                      
+Marinheiro                   | Marinheira
+General
+Nerd
+Entregador                   | Entregadoa
+Carteiro                     | Carteira
+Salva-vidas                  | Salva-vidas
+Policial                     | Policial
+Empresário                   | Empresária
+Gari                         | Gari
+Investigador                 | Investigadora
+Jogador                      | Jogadora
+Soldado                      | Soldada
+Praieiro                     | Praieira
+Hipster                      
+Monge                        | Monja
+Dedetizador                  
+Lojista                      
+Mimico                       
+Músico                       | Música
+Garçom                       | Garçonete
+Dono de casa                 | Dona de casa
+Pai                          | Mãe
+Tio                          | Tia
+Avô                          | Avó
+Vizinho                      | Vizinha
+Fofoqueiro                   | Fofoqueira
+Modelo                   
+Mecânico                   
+Barbeiro                     | Barbeira
+Palhaço                      | Palhaça
+Dueslista                   
+Barista                     
+Escrivão                     | Escrivã
+Esgrima                     
+Artista                      
+Refugiado                    | Refugiada
+Orfão                        | Orfã
+Merendeiro                   | Merendeira
+Zelador                      | Zeladora
+Bibliotecário                | Bibliotecária
+Faxineiro                    | Faxineira
+Guia                         | Guia
+Líder de torcida             
+Marinheiro                   | Marinheira
+Capitão                      | Capitã
+Guardião                     | Guardiã
+Bruxo                        | Bruxa
+Esportista                   
+Prisioneiro                  | Prisioneira
+Catador                      | Catadora                 
+Instrutor                    | Instrutora
+Mercenário                   | Mercenária
+Negociante                  
+Escoteiro                  
+Voluntário                 
+Guarda                  
+Motorista                  
+Mordomo                 
+Sentinela                   
+Feirante                   
+Torcedor                     | Torcedora
+Curandeiro                   | Curandeira
+
+
+
