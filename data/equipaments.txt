@@ -1,21 +1,30 @@
 Name                         | Gender
 -----------------------------|--------------------------------------------------
-uma Espada                   | feminine
+uma Pochete                  | feminine
 uma Bolsa                    | feminine
-uma Alabarda                 | feminine
-uma Adaga                    | feminine
-uma Varinha                  | feminine
 uma Lanterna                 | feminine
+uma Máscara de gás           | feminine
+uma Tigela                   | feminine
+uma Chave                    | feminine
 uma Pulseira                 | feminine
 uma Luva                     | feminine
-um Arco e Flecha             | masculine
-um Escudo                    | masculine
-um Machado                   | masculine
-um Martelo                   | masculine
+uma Lata                     | feminine
+uma Gravata                  | feminine
+uma Máscara                  | feminine
+uma Corrente                 | feminine
+uma Abóbora                  | feminine
+uma Seringa                  | feminine
+
 um Cajado                    | masculine
 um Livro                     | masculine
 um Óculos                    | masculine
 um Chapéu                    | masculine
 um Capuz                     | masculine
 um Colar                     | masculine
-um Capacete                  | masculine
+um Casaco                    | masculine
+um Cachecol                  | masculine
+um Brinco                    | masculine
+um Boné                      | masculine
+um Gancho                    | masculine
+um Patins                    | masculine
+um Caldeirão                 | masculine
