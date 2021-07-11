@@ -1,30 +1,112 @@
-Name                         | Gender
------------------------------|--------------------------------------------------
-uma Pochete                  | feminine
-uma Bolsa                    | feminine
-uma Lanterna                 | feminine
-uma Máscara de gás           | feminine
-uma Tigela                   | feminine
-uma Chave                    | feminine
-uma Pulseira                 | feminine
-uma Luva                     | feminine
-uma Lata                     | feminine
-uma Gravata                  | feminine
-uma Máscara                  | feminine
-uma Corrente                 | feminine
-uma Abóbora                  | feminine
-uma Seringa                  | feminine
 
-um Cajado                    | masculine
-um Livro                     | masculine
-um Óculos                    | masculine
-um Chapéu                    | masculine
-um Capuz                     | masculine
-um Colar                     | masculine
-um Casaco                    | masculine
-um Cachecol                  | masculine
-um Brinco                    | masculine
-um Boné                      | masculine
-um Gancho                    | masculine
-um Patins                    | masculine
-um Caldeirão                 | masculine
+Masculine                    | Feminine
+-----------------------------|--------------------------------------------------
+Esquimó                   
+Vira-lata                    
+Espacial                   
+Anjo                    
+Fada                  
+Savana                       
+Arcanjo                
+Colegial                  
+Exército          
+Máquinas                   
+Robôs               
+Antropomórfico                      
+Folclore                     
+Tropical                
+Militar                     
+Zoológico           
+Cyrberpunk
+Marinho
+Lúdico
+Remoto
+Exótico
+Futurista
+Brilhante
+Mexicano
+Geleia
+Gelado
+Musical
+Elemental
+Glamour
+Criminal
+Fantasma
+Clichê
+Boneco
+Voador
+Natalino
+Apertado
+Monstros
+Bizarro
+Assustador
+Extraterrestre
+Totem
+Macabro
+Esqueleto
+Armado
+Espírito
+Estátua
+Gigante
+Pedra
+Água
+Grande
+Noturno
+Amputado
+Voodo
+Besouro
+Infantil
+Glacial
+Steampunk
+Futurista
+Pinup
+Zumbi
+Lobisomen
+Pirata
+Samurai
+Rural
+Alienígena
+Tribos
+Folclore
+Ossos
+Workaholic
+Ama doces
+Estudante
+Espectral
+Selva
+América do Sul
+Florestal
+Rural
+Ama comida
+Mexicano
+Indígena
+Vilarejo
+Monstros
+Native American
+Casa de boneca
+Festa do pijama
+Barco de papel
+Emo
+Pinup
+Fantasia
+Festa na piscina
+Sapos mágicos
+Unicórnios
+Escola de magia
+Halloween
+Bruxas
+Fadas
+Hip-hop
+Futebol americano
+Perna de pau
+Perna mecânica
+Armados
+Flores
+Vegetais
+Roupa de orck
+Bolha de sabão
+Nerd
+Barco de papel
+Espaço
+
+
