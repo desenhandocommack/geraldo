@@ -134,6 +134,8 @@ Sentinela
 Feirante                   
 Torcedor                     | Torcedora
 Curandeiro                   | Curandeira
+Advogado                     | Advogada
+Capitão                      | Capitã
 
 
 
