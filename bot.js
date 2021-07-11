@@ -44,12 +44,11 @@ function makeMessage() {
   const kind = rand(races)[gender];
   const clazz = rand(classes)[gender];
   const equip = rand(equipaments);
-  const adj = rand(adjectives)[equip.gender].toLowerCase();
+  // const adj = rand(adjectives)[equip.gender].toLowerCase();
   const article = articles[gender];
 
-  return `\nDesenha ${article} **${kind} ${clazz} ${rand(verbs)} ${
-    equip.name
-  } ${adj}**`;
+  // return `\nDesenha ${article} **${kind} ${clazz} ${rand(verbs)} ${equip.name} ${adj}**`;
+  return `\nDesenha ${article} **${kind} ${clazz} ${rand(verbs)} ${equip.name}**`;
 }
 
 const verbs = [
