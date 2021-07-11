@@ -48,7 +48,7 @@ function makeMessage() {
   const article = articles[gender];
 
   // return `\nDesenha ${article} **${kind} ${clazz} ${rand(verbs)} ${equip.name} ${adj}**`;
-  return `\nDesenha ${article} **${kind} ${clazz} ${rand(verbs)} ${equip.name}**`;
+  return `\nDesenha ${article} **${kind} ${clazz} ${equip.name}**`;
 }
 
 const verbs = [
