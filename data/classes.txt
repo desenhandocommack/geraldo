@@ -1,116 +1,120 @@
 Masculine                    | Feminine
 -----------------------------|--------------------------------------------------
-Elétrico
-Esforçado
-Amigável
-Determinado
-Maníaco
-Preguiçoso
-Desatento
-Charmoso
-Descolado
-Tímido
-Otimista
-Corajoso
-Honesto
-Disciplinado
-Criativo
-Focado
-Confiante
-Paciente
-Justo
-Responsável
-Autêntico
-Gentil
-Confiável
-Agradável
-Alegre
-Amistoso
-Acolhedor
-Aventureiro
-Ágil
-Atento
-Astuto
-Assombroso
-Sensual
-Brincalhão
-Carinhoso
-Cavalheiro
-Cativante
-Chique
-Elegante
-Culto
-Divertido
-Disposto
-Devoto
-Firme
-Gênio
-Heróico
-Imaginativo
-Jovial
-Líder
-Ousado
-Obstinado
-Organizado
-Ousado
-Poderoso
-Radiante
-Robusto
-Sonhador
-Sério
-Sábio
-Verboso
-Zen
-Medroso
-Distraído
-Instável
-Orgulhoso
-Nervoso
-Apático
-Ingênuo
-Mentiroso
-Não confiável
-Calmo
-Hipocondríaco
-Vaidoso
-Severo
-Bruto
-Violento
-Sujo
-Valente
-Covarde
-Dócil
-Estúpido
-Pessimista
-Saudável
-Doente
-Cruel
-Indeciso
-Misterioso
-Tranquilo
-Insensível
-Arrogante
-Modesto
-Hábil
-Franco
-Galante
-Rude
-Ativo
-Crente
-Vagabundo
-Prático
-Organizado
-Independente
-Arrogante
-Rápido
-Sorrateiro
-Aberto
-Amigável
-Heróico
-Destemido
-Velho
-Sinistro
-Antiquado
-Fofoqueiro
-Estudioso
-Emburrado
+Agitado                      | Agitada
+Esforçado                    | Esforçada
+Amigável                     | Esforçada
+Determinado                  | Esforçada
+Maníaco                      | Esforçada
+Preguiçoso                   | Esforçada
+Desatento                    | Esforçada
+Charmoso                     | Esforçada
+Descolado                    | Esforçada
+Tímido                       | Esforçada
+Otimista                     | Esforçada
+Corajoso                     | Esforçada
+Honesto                      | Esforçada
+Disciplinado                 | Esforçada
+Criativo                     | Esforçada
+Focado                       | Esforçada
+Confiante                    | Esforçada
+Paciente                     | Esforçada
+Justo                        | Esforçada
+Responsável                  | Esforçada
+Autêntico                    | Esforçada
+Gentil                       | Esforçada
+Confiável                    | Esforçada
+Agradável                    | Esforçada
+Alegre                       | Esforçada
+Amistoso                     | Esforçada
+Acolhedor                    | Esforçada
+Aventureiro                  | Esforçada
+Ágil                         | Esforçada
+Atento                       | Esforçada
+Astuto                       | Esforçada
+Belo                         | Esforçada
+Nojento                      | Esforçada
+Brincalhão                   | Esforçada
+Carinhoso                    | Esforçada
+Cavalheiro                   | Esforçada
+Cativante                    | Esforçada
+Chique                       | Esforçada
+Culto                        | Esforçada
+Divertido                    | Esforçada
+Disposto                     | Esforçada
+Devoto                       | Esforçada
+Firme                        | Esforçada
+Gênio                        | Esforçada
+Heróico                      | Esforçada
+Imaginativo                  | Esforçada
+Jovial                       | Esforçada
+Líder                        | Esforçada
+Ousado                       | Esforçada
+Obstinado                    | Esforçada
+Organizado                   | Esforçada
+Ousado                       | Esforçada
+Poderoso                     | Esforçada
+Radiante                     | Esforçada
+Sonhador                     | Esforçada
+Sério                        | Esforçada
+Sábio                        | Esforçada
+Verboso                      | Esforçada
+Zen                          | Esforçada
+Medroso                      | Esforçada
+Distraído                    | Esforçada
+Instável                     | Esforçada
+Orgulhoso                    | Esforçada
+Nervoso                      | Esforçada
+Apático                      | Esforçada
+Ingênuo                      | Esforçada
+Mentiroso                    | Esforçada
+Não confiável                | Esforçada
+Calmo                        | Esforçada
+Hipocondríaco                | Esforçada
+Vaidoso                      | Esforçada
+Severo                       | Esforçada
+Bruto                        | Esforçada
+Violento                     | Esforçada
+Valente                      | Esforçada
+Covarde                      | Esforçada
+Dócil                        | Esforçada
+Estúpido                     | Esforçada
+Pessimista                   | Esforçada
+Saudável                     | Esforçada
+Doente                       | Esforçada
+Cruel                        | Esforçada
+Indeciso                     | Esforçada
+Misterioso                   | Esforçada
+Tranquilo                    | Esforçada
+Insensível                   | Esforçada
+Sensível                     | Esforçada
+Arrogante                    | Esforçada
+Modesto                      | Esforçada
+Hábil                        | Esforçada
+Franco                       | Esforçada
+Galante                      | Esforçada
+Rude                         | Esforçada
+Ativo                        | Esforçada
+Crente                       | Esforçada
+Vagabundo                    | Esforçada
+Prático                      | Esforçada
+Organizado                   | Esforçada
+Independente                 | Esforçada
+Arrogante                    | Esforçada
+Rápido                       | Esforçada
+Sorrateiro                   | Esforçada
+Aberto                       | Esforçada
+Amigável                     | Esforçada
+Heróico                      | Esforçada
+Destemido                    | Esforçada
+Velho                        | Esforçada
+Antiquado                    | Esforçada
+Fofoqueiro                   | Esforçada
+Estudioso                    | Esforçada
+Emburrado                    | Esforçada
+Expansivo                    | Esforçada
+Inseguro                     | Esforçada
+Lento                        | Esforçada
+Sério                        | Esforçada
+Bagunceiro                   | Esforçada
+Valentão                     | Esforçada
+Melancólico                  | Esforçada
