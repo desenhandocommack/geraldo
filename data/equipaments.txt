@@ -1,7 +1,6 @@
 Name                    | Gender   
 ------------------------|----------
 Infernal                | masculine
-Sombrio                 | masculine
 Elétrico                | masculine
 Apertado                | masculine
 Assombroso              | masculine
