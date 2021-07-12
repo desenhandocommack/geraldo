@@ -102,3 +102,4 @@ Escola de magia         | feminine
 Flores                  | feminine
 Vegetais                | masculine
 Bruxas                  | feminine
+Lixo                    | masculine
