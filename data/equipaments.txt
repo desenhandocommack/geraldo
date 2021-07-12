@@ -1,130 +1,105 @@
 Name                    | Gender   
 ------------------------|----------
-Esquimó                 | masculine
-Vira-lata               | masculine
-Espacial                | masculine
-Anjo                    | masculine
-Fada                    | masculine
-Savana                  | masculine
-Arcanjo                 | masculine
+Infernal                | masculine
+Sombrio                 | masculine
+Elétrico                | masculine
+Apertado                | masculine
+Assombroso              | masculine
+Sujo                    | masculine
+Sinistro                | masculine
+Vilanesco               | masculine
+Tecnológico             | masculine
+Zoológico               | masculine
+Luta livre              | masculine
+Savana                  | feminine
+Indígena                | masculine
+Espaço                  | masculine
 Colegial                | masculine
 Exército                | masculine
-Máquinas                | masculine
-Robôs                   | masculine
-Antropomórfico          | masculine
 Folclore                | masculine
-Tropical                | masculine
 Militar                 | masculine
-Zoológico               | masculine
-Cyrberpunk              | masculine
-Marinho                 | masculine
-Lúdico                  | masculine
-Remoto                  | masculine
+Tropical                | masculine
+Cyberpunk               | masculine
+Steampunk               | masculine
+Doce                    | masculine
 Exótico                 | masculine
+Lúdico                  | masculine
+Infantil                | masculine
+Geleia                  | feminine
 Futurista               | masculine
-Brilhante               | masculine
-Mexicano                | masculine
-Geleia                  | masculine
-Gelado                  | masculine
+Antropomórfico          | masculine
 Musical                 | masculine
-Elemental               | masculine
+Elementais              | masculine
 Glamour                 | masculine
 Criminal                | masculine
-Fantasma                | masculine
-Clichê                  | masculine
-Boneco                  | masculine
-Voador                  | masculine
-Natalino                | masculine
+Bonecos                 | masculine
 Apertado                | masculine
-Monstros                | masculine
+Natalino                | masculine
 Bizarro                 | masculine
 Assustador              | masculine
 Extraterrestre          | masculine
 Totem                   | masculine
-Macabro                 | masculine
-Esqueleto               | masculine
-Armado                  | masculine
-Espírito                | masculine
-Estátua                 | masculine
-Gigante                 | masculine
-Pedra                   | masculine
-Água                    | masculine
-Grande                  | masculine
-Noturno                 | masculine
-Amputado                | masculine
-Voodo                   | masculine
-Besouro                 | masculine
-Infantil                | masculine
-Glacial                 | masculine
-Steampunk               | masculine
-Futurista               | masculine
-Pinup                   | masculine
-Zumbi                   | masculine
-Lobisomen               | masculine
-Pirata                  | masculine
-Samurai                 | masculine
-Rural                   | masculine
-Alienígena              | masculine
-Tribos                  | masculine
-Folclore                | masculine
-Ossos                   | masculine
-Workaholic              | masculine
-Ama doces               | masculine
-Estudante               | masculine
-Espectral               | masculine
-Selva                   | masculine
-América do Sul          | masculine
-Florestal               | masculine
-Rural                   | masculine
-Ama comida              | masculine
-Mexicano                | masculine
-Indígena                | masculine
-Vilarejo                | masculine
 Monstros                | masculine
-Native American         | masculine
-Casa de boneca          | masculine
-Festa do pijama         | masculine
-Barco de papel          | masculine
-Emo                     | masculine
-Pinup                   | masculine
-Fantasia                | masculine
-Festa na piscina        | masculine
-Sapos mágicos           | masculine
-Unicórnios              | masculine
-Escola de magia         | masculine
-Halloween               | masculine
-Bruxas                  | masculine
-Fadas                   | masculine
-Hip-hop                 | masculine
-Futebol americano       | masculine
-Perna de pau            | masculine
-Perna mecânica          | masculine
+Esqueleto               | masculine
+Espíritos               | masculine
 Armados                 | masculine
-Flores                  | masculine
-Vegetais                | masculine
-Roupa de orck           | masculine
-Bolha de sabão          | masculine
+Macabro                 | masculine
+Guerra                  | feminine
+Marinho                 | masculine
+Besouros                | masculine
+Voodo                   | masculine
+Estátua                 | feminine
+Noturno                 | masculine
+Zumbi                   | masculine
+Alienígena              | masculine
+Samurai                 | masculine
+Praia                   | feminine
+Folclore                | masculine
+Tribo                   | feminine
+Espectral               | masculine
+Ossos                   | masculine
+Comida                  | feminine
+Fantasia                | feminine
+Vilarejo                | masculine
+Mexicano                | masculine
+Workaholic              | masculine
+Florestal               | masculine
+Emo                     | masculine
+Festa do pijama         | feminine
+Casa de boneca          | feminine
+Native American         | masculine
+Pin-up                  | feminine
+Rural                   | masculine
+Selva                   | feminine
+Papel                   | masculine
+Bolha de sabão          | feminine
 Nerd                    | masculine
-Barco de papel          | masculine
-Espaço                  | masculine
-Mitologia               | masculine
-Faroeste                | masculine
 Oriental                | masculine
-Nórdico                 | masculine
 Caçada ao tesouro       | masculine
-Biblioteca das trevas   | masculine
-Estranho                | masculine
-Primavera               | masculine
-Verão                   | masculine
-Outono                  | masculine
-Inverno                 | masculine
-Acampamento             | masculine
-Viagem                  | masculine
-Brinquedos              | masculine
-Diversão                | masculine
-Paintball               | masculine
 Deserto                 | masculine
 Venenoso                | masculine
-Mistério                | masculine
+Diversão                | feminine
+Estranho                | masculine
+Supertição              | feminine
 Pesadelo                | masculine
-Supertição              | masculine
+Mistério                | masculine
+Brinquedos              | masculine
+Viagem                  | feminine
+Paintball               | masculine
+Primavera               | feminine
+Nórdico                 | masculine
+Biclioteca das trevas   | feminine
+Verão                   | masculine
+Unicórnio               | masculine
+Acampamento             | masculine
+Outono                  | masculine
+Inverno                 | masculine
+Festa na piscina        | feminine
+Halloween               | masculine
+Faroeste                | masculine
+Mitologia               | feminine
+Sapos mágicos           | masculine
+Escola de magia         | feminine
+Flores                  | feminine
+Vegetais                | masculine
+Bruxas                  | feminine
