@@ -137,7 +137,7 @@ Curandeiro                   | Curandeira
 Advogado                     | Advogada
 Capitão                      | Capitã
 Eletricista
-Pastor
+Pastor                       | Pastora
 Atendente
 
 
