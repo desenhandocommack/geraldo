@@ -136,7 +136,9 @@ Torcedor                     | Torcedora
 Curandeiro                   | Curandeira
 Advogado                     | Advogada
 Capitão                      | Capitã
-Eeletricista
+Eletricista
+Pastor
+Atendente
 
 
 
